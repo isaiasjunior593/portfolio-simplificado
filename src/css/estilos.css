@@ -56,10 +56,6 @@ body {
     justify-content: space-between;
 }
 
-.home .informacoes .redes-sociais a i{
-    border: 1px solid #fff;
-}
-
 .home .informacoes {
     display: flex;
     flex-direction: column;
@@ -87,7 +83,7 @@ body {
     margin-top: 20px;
 }
 
-.home .redes-sociais a i {
+.home .informacoes .redes-sociais a i {
     border: 1px solid #fff;
     border-radius: 50%;
     width: 50px;
